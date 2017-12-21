@@ -1,6 +1,6 @@
 # Salesforce DX Org Config OhMyZSh Prompt
 
-Using Wade Wegner's guide <a href="http://www.wadewegner.com/2017/04/show-the-salesforce-dx-org-config-in-your-bash-profile/">here</a>, I went ahead and created a quick script to put my current scratch org in my OhMyZsh command prompt. Here is a preview of what's to come:
+Using Wade Wegner's guide <a href="http://www.wadewegner.com/2017/04/show-the-salesforce-dx-org-config-in-your-bash-profile/">here</a>, I went ahead and created a quick script to put my current scratch org in my <a href="http://ohmyz.sh/">OhMyZsh</a> command prompt. Here is a preview of what's to come:
 
 <img width="570" alt="screenshot 2017-12-20 20 38 48" src="https://user-images.githubusercontent.com/1228550/34242001-72af63b6-e5d6-11e7-90d7-9080054f91b4.png">
 
