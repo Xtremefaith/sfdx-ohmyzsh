@@ -1,5 +1,5 @@
 get_sfdx_defaultusername() {
-    if [ -d ".sfdx" ]; then
+    if [ -f "sfdx-project.json" ]; then
         config="$(cat .sfdx/sfdx-config.json 2> /dev/null)";
         globalConfig="$(cat ~/.sfdx/sfdx-config.json)";
         aliasConfig="$(cat ~/.sfdx/alias.json)";
